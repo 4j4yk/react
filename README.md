@@ -1,6 +1,6 @@
-<<<<<<< HEAD
 # react
 react js sample work
+
 =======
 # Getting Started with Create React App
 
